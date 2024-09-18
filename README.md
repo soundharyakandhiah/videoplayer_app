@@ -1,19 +1,11 @@
-# video
+I’m thrilled to announce the release of my video player project built with Flutter! This application provides a smooth and responsive experience for playing videos, complete with features like play/pause, volume control, and fullscreen mode. Leveraging Flutter's powerful capabilities, I've created a user-friendly interface that works across multiple platforms. Check out the code, and feel free to contribute or share your feedback. Enjoy exploring!
 
-A new Flutter project created with FlutLab - https://flutlab.io
 
-## Getting Started
+              
 
-A few resources to get you started if this is your first Flutter project:
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+![sundu](https://github.com/user-attachments/assets/361e8eb2-70f2-44b0-b9b5-480c069f25d3)
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+
